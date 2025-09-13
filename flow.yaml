@@ -48,8 +48,8 @@ proxy-groups:
       - SG
       - TW
       - US
-      - NCloud
-      - NCloud自动选择
+      ##- NCloud
+      ##- NCloud自动选择
       - IEPLjp优选
       - IEPLtw优选
       - IEPLsg优选

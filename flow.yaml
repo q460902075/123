@@ -413,7 +413,7 @@ proxy-groups:
   # - {name: 6-us-185.123.146.170-relay , type: relay, proxies: [IEPLus优选,  6-us-185.123.146.170]}
 
 rules:
-#  - SRC-IP-CIDR,192.168.5.197/32,1-tw-178.171.120.89-relay
+ - SRC-IP-CIDR,192.168.5.249/32,DIRECT
 #  - SRC-IP-CIDR,192.168.5.141/32,2-tw-178.171.121.216-relay
  - DOMAIN-KEYWORD,rochat,IEPLhk优选
  - DOMAIN-KEYWORD,tiktok,IEPLsg优选
